@@ -16,7 +16,7 @@ This Power BI dashboard provides a comprehensive analysis of the Electric Vehicl
 
 ## 📈 Key Insights & Features Visualized
 * *EV Adoption Trend*: Tracks the massive spike in EV registrations over the years, peaking significantly around 2023-2024.
-* *Top Manufacturers: Highlights industry leaders dominated by **TESLA (0.11M vehicles)*, followed by Chevrolet, Nissan, Ford, and Kia.
+* *Top Manufacturers: Highlights industry leaders dominated by **TESLA*, followed by Chevrolet, Nissan, Ford, and Kia.
 * *Market Share (BEV vs. PHEV): A donut chart showing that Battery Electric Vehicles (BEVs) hold the majority share at **80.02%* compared to Plug-in Hybrids.
 * *Top 10 Models by Average Electric Range*: A bar chart identifying top-performing models like the Roadster, I-Pace, Bolt EV, and Model S based on range capacity.
 * *Geographical Distribution: A tree map displaying EV density across major cities, with **Seattle (43.25K)* leading the distribution, followed by Bellevue, Redmond, and Vancouver.
